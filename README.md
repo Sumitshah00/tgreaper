@@ -229,8 +229,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Screenshots
 
-> _Add screenshots of your terminal sessions or results here!_
-
 ![image](https://github.com/user-attachments/assets/ad630778-cc01-4eec-bec7-e16d9b275a48)
 
 
